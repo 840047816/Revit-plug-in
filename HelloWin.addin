@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+<AddIn Type="Command">
+<Assembly>E:\Revit2016\C#Project\HelloRevit\HelloRevit\bin\Debug\HelloRevit.dll</Assembly>
+<AddInId>ac80260a-2aa2-42e4-bcf4-5ec746c20bdb</AddInId>
+<FullClassName>HelloRevit.Class1</FullClassName>
+<VendorId>Autodesk</VendorId>
+<Text>Calculate Assembly Rate</Text>
+</AddIn>
+</RevitAddIns>
